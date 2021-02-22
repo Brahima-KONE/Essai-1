@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(127, 129, 120);
+    background-image: url("Images/images4.jpg");
+}
+h1{
+    color: rgb(245, 243, 243);
+}
+p{
+    font-size: 30px;
+}
